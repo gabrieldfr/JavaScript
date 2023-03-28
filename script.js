@@ -38,48 +38,54 @@ console.log(str.length);
 
 //B) HARDWARE
 let str2 ="HARDWARE"
-console.log(str2.length)
+console.log(str2.length);
 
 //C) FIAP A MELHOR FACULDADE
 let str3 ="FIAP A MELHOR FACULDADE"
-console.log(str3.length)
+console.log(str3.length);
 
 //D) TECNOLOGIA
 let str4 ="TECNOLOGIA"
-console.log(str4.length)
+console.log(str4.length);
 
 //4) VERIFIQUE A PRIMEIRA POSIÇÃO USANDO indexOf() DOS SEGUINTES VALORES
 //A) A MAIOR TECNOLOGIA
 let first ="A MAIOR TECNOLOGIA"
-console.log(first.indexOf("A"))
+console.log(first.indexOf("A"));
 
 //B) HARDWARE FAZ O COMPUTADOR
 let first2 ="HARDWARE FAZ O COMPUTADOR"
-console.log(first2.indexOf("H"))
+console.log(first2.indexOf("H"));
 
 //C) FIAP A MELHOR FACULDADE
 let first3 ="FIAP A MELHOR FACULDADE"
-console.log(first3.indexOf("F"))
+console.log(first3.indexOf("F"));
 
 //D) TECNOLOGIA E INOVAÇÃO
 let first4 ="TECNOLOGIA E INOVAÇÃO"
-console.log(first4.indexOf("T"))
+console.log(first4.indexOf("T"));
 
 //5) VERIFIQUE O ULTIMO TRECHO DA POSIÇÃO USANDO lastIndexOf()
 //A) A MAIOR TECNOLOGIA
 let last ="A MAIOR TECNOLOGIA"
-console.log(last.lastIndexOf("A"))
+console.log(last.lastIndexOf("A"));
 
 //B) HARDWARE FAZ O COMPUTADOR
 let last2 ="HARDWARE FAZ O COMPUTADOR"
-console.log(last2.lastIndexOf("R"))
+console.log(last2.lastIndexOf("R"));
 
 //C) FIAP A MELHOR FACULDADE
 let last3 ="FIAP A MELHOR FACULDADE"
-console.log(last3.lastIndexOf("E"))
+console.log(last3.lastIndexOf("E"));
 
 //D) TECNOLOGIA E INOVAÇÃO
 let last4 ="TENCOLOGIA E INOVAÇÃO"
-console.log(last4.lastIndexOf("O"))
+console.log(last4.lastIndexOf("O"));
 
+//6)CRIE UMA ESTRUTURA QUE IMPRIMA NA TELA  document.write CONCATENANDO
 
+document.write("LOJA DE INFORMÁTICA<br>");
+document.write("O MELHOR MOUSE POR R$22,00<br>");
+document.write("TECLADO QUE TRAS O MELHOR CONFORTO POR R$50,00<br>");
+document.write("CADEIRA GAMER TOP DE LINHA R$1300,00<br>");
+document.write("UTILIZE O MELHOR MOUSE PAD POR R$15,00");
