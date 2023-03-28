@@ -1,0 +1,49 @@
+//CONVERTA de float para int usando parseInt OS SEGUINTES NÚMEROS
+//A) 30.345
+let numfloat =30.345
+console.log(parseInt(numfloat));
+//B)154.66
+let numfloat2 =154.66
+console.log(parseInt(numfloat2));
+
+//C)50.888
+let numfloat3 =50.888
+console.log(parseInt(numfloat3));
+
+//D) 089.52
+let numfloat4 =089.52
+console.log(parseInt(numfloat4));
+
+//CONVERTA  de String para float usando parseFloat OS SEGUINTES NÚMEROS
+//A) 30.345
+let text ="30.345"
+console.log(parseFloat(text));
+
+//B) 154.666
+let text2 ="154.666"
+console.log(parseFloat(text2));
+
+//C) 50.888
+let text3 ="50.888"
+console.log(parseFloat(text3));
+        
+//D) 089.52
+let text4 ="089.52"
+console.log(parseFloat(text4));
+
+//3) VERIFIQUE O TAMANHO DAS SEQUINTES STRINGS USANDO O LENGTH 
+//A) A MAIOR TECNOLOGIA
+let str ="A MAIOR TECNOLOGIA"
+console.log(str.length);
+
+//B) HARDWARE
+let str2 ="HARDWARE"
+console.log(str2.length)
+
+//C) FIAP A MELHOR FACULDADE
+let str3 ="FIAP A MELHOR FACULDADE"
+console.log(str3.length)
+
+//D) TECNOLOGIA
+let str4 ="TECNOLOGIA"
+console.log(str4.length)
