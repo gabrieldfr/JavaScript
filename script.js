@@ -64,3 +64,22 @@ console.log(first3.indexOf("F"))
 //D) TECNOLOGIA E INOVAÇÃO
 let first4 ="TECNOLOGIA E INOVAÇÃO"
 console.log(first4.indexOf("T"))
+
+//5) VERIFIQUE O ULTIMO TRECHO DA POSIÇÃO USANDO lastIndexOf()
+//A) A MAIOR TECNOLOGIA
+let last ="A MAIOR TECNOLOGIA"
+console.log(last.lastIndexOf("A"))
+
+//B) HARDWARE FAZ O COMPUTADOR
+let last2 ="HARDWARE FAZ O COMPUTADOR"
+console.log(last2.lastIndexOf("R"))
+
+//C) FIAP A MELHOR FACULDADE
+let last3 ="FIAP A MELHOR FACULDADE"
+console.log(last3.lastIndexOf("E"))
+
+//D) TECNOLOGIA E INOVAÇÃO
+let last4 ="TENCOLOGIA E INOVAÇÃO"
+console.log(last4.lastIndexOf("O"))
+
+
