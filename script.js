@@ -47,3 +47,20 @@ console.log(str3.length)
 //D) TECNOLOGIA
 let str4 ="TECNOLOGIA"
 console.log(str4.length)
+
+//4) VERIFIQUE A PRIMEIRA POSIÇÃO USANDO indexOf() DOS SEGUINTES VALORES
+//A) A MAIOR TECNOLOGIA
+let first ="A MAIOR TECNOLOGIA"
+console.log(first.indexOf("A"))
+
+//B) HARDWARE FAZ O COMPUTADOR
+let first2 ="HARDWARE FAZ O COMPUTADOR"
+console.log(first2.indexOf("H"))
+
+//C) FIAP A MELHOR FACULDADE
+let first3 ="FIAP A MELHOR FACULDADE"
+console.log(first3.indexOf("F"))
+
+//D) TECNOLOGIA E INOVAÇÃO
+let first4 ="TECNOLOGIA E INOVAÇÃO"
+console.log(first4.indexOf("T"))
